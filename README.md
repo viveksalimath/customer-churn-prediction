@@ -60,5 +60,3 @@ or your own dataset (place it in the `data/` folder).
 
 ---
 
-## 📜 License
-MIT License
